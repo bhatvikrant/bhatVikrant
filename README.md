@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Vikrant Bhat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhatVikrant&show_icons=true&hide_border=true" />
+<img align="left" alt="Vikrant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhatVikrant&show_icons=true&hide_border=true" />
 
 [website]: https://underreacted.netlify.app/
 [twitter]: https://twitter.com/vikrantbhat1022
