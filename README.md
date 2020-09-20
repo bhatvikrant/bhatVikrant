@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 things I learned as a Software Developer](https://dev.to/vikrantbhat/7-things-i-learned-as-a-software-developer-m7f)
 - [Open any public GitHub repo in Codesandbox in 3 seconds](https://dev.to/vikrantbhat/open-any-public-github-repo-in-codesandbox-in-3-seconds-2il2)
 - [Javascript (ES2020) **Nullish Coalescing_( ?? ) and Optional Chaining ( ?. )Explained](https://dev.to/vikrantbhat/javascript-es2020-nullish-coalescing-and-optional-chaining-explained-3pkg)
 - [Redux-persist (v6) in detail (React)](https://dev.to/vikrantbhat/redux-persist-v6-in-detail-react-10nh)
 - [How to setup Redux with React (2020)](https://dev.to/vikrantbhat/how-to-setup-redux-with-react-2020-cdj)
-- [What is Deno? Is it gonna replace Node?](https://dev.to/vikrantbhat/what-is-deno-is-it-gonna-replace-node-34o6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
