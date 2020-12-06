@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working with **_React_** and **_React Native_**
-- 🌱 I’m currently learning **_Graphql_** and **_Typescript_**
+- 🌱 I’m currently learning **_NextJS_** and **_Typescript_**
 - 💬 Ask me about **_Javacript!_**
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
 ### Connect with me:
