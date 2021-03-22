@@ -13,7 +13,7 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 
 Joined Github **1** years ago.
 
-Since then I pushed **2273**+ commits, opened **21**+ issues, submitted **86**+ pull requests, created **0**+ gists and contributed to **16**+ public repositories.
+Since then I pushed **2274**+ commits, opened **21**+ issues, submitted **86**+ pull requests, created **0**+ gists and contributed to **16**+ public repositories.
 
 <!-- [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) -->
 
@@ -31,7 +31,7 @@ Since then I pushed **2273**+ commits, opened **21**+ issues, submitted **86**+ 
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love to explore new tech and building cool stuff with it.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 - ⚡ &nbsp; Fun fact: I love to draw and play guitar
