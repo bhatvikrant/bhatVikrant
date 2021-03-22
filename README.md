@@ -13,7 +13,7 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 
 Joined Github **1** years ago.
 
-Since then I pushed **2272**+ commits, opened **21**+ issues, submitted **86**+ pull requests, created **0**+ gists and contributed to **16**+ public repositories.
+Since then I pushed **2273**+ commits, opened **21**+ issues, submitted **86**+ pull requests, created **0**+ gists and contributed to **16**+ public repositories.
 
 <!-- [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) -->
 
@@ -21,7 +21,7 @@ Since then I pushed **2272**+ commits, opened **21**+ issues, submitted **86**+ 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with NextJS, Typescript, React, ReactNative, Firebase <br /> Graphql, Chakra-ui, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with NextJS, Typescript, React, ReactNative, Firebase, Graphql, Chakra-ui, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bhatvikrant).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help.
