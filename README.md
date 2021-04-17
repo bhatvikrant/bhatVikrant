@@ -13,7 +13,7 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 
 Joined Github **1** years ago.
 
-Since then I pushed **2448**+ commits, opened **22**+ issues, submitted **116**+ pull requests, created **0**+ gists and contributed to **18**+ public repositories.
+Since then I pushed **2451**+ commits, opened **22**+ issues, submitted **117**+ pull requests, created **0**+ gists and contributed to **18**+ public repositories.
 
 <!-- [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) -->
 
