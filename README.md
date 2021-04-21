@@ -11,7 +11,7 @@
 
 I'm a final year student pursuing Bachelors's in Information Technology 🎓 from Delhi 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web 🕸️ & Mobile app 📲 Development.
 
-Joined Github **1** years ago.
+Joined Github **4** years ago.
 
 Since then I pushed **2478**+ commits, opened **22**+ issues, submitted **125**+ pull requests, created **0**+ gists and contributed to **19**+ public repositories.
 
