@@ -21,7 +21,7 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with NextJS, Typescript, React, ReactNative, Firebase, Graphql, Chakra-ui, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with NextJS, Typescript, React, NodeJS ReactNative, Firebase, Graphql, Apollo, Tailwind, Chakra-ui, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bhatvikrant).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help.
