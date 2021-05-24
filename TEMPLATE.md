@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Vikrant Bhat!](https://github.com/bhatvikrant/)
+## Hey 👋, I'm [Vikrant Bhat!](https://twitter.com/vikrantbhat1022) and you've reached my Dev space on the WWW :)
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vikrantbhat.com/) -->
 
