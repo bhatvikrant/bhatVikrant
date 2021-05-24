@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Vikrant Bhat!](https://github.com/bhatvikrant/)
+## Hey 👋, I'm [Vikrant Bhat!](https://twitter.com/vikrantbhat1022) and you've reached my Dev space on the WWW :)
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vikrantbhat.com/) -->
 
@@ -13,7 +13,7 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 
 Joined Github 3 years ago.
 
-Since then I pushed **2953**+ commits, opened **27**+ issues, submitted **190**+ pull requests, created **0**+ gists and contributed to **20**+ public repositories.
+Since then I pushed **2962**+ commits, opened **27**+ issues, submitted **190**+ pull requests, created **0**+ gists and contributed to **20**+ public repositories.
 
 <!-- [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) -->
 
