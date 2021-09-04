@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=bhatvikrant.bhatvikrant&style=flat-square&color=0088cc)
 
-I'm a final year student pursuing Bachelors's in Information Technology 🎓 from Delhi 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web 🕸️ & Mobile app 📲 Development.
+I'm a full-stack developer currently working at [codedamn](https://github.com/codedamn). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web 🕸️ & Mobile app 📲 Development.
 
 Joined Github 3 years ago.
 
@@ -22,13 +22,13 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with NextJS, Typescript, React, NodeJS ReactNative, Firebase, Graphql, Apollo, Tailwind, Chakra-ui, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👀 &nbsp; What I want to learn: WASM, Golang, Rust(should I?)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bhatvikrant).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: vik.bhat223@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf).
-
+- 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go)
+<!-- - 🚀 &nbsp; I’m currently learning Full Stack Development. -->
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love to explore new tech and building cool stuff with it.
@@ -132,6 +132,8 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
   	<ul>
   	    <li><b>OS:</b> MacOS Big Sur</li>
 	    <li><b>Laptop: </b> MacBook Pro (13-inch, M1, 2020)</li>
+            <li><b>Mouse: </b>Logitech MX master 3</li>
+	    <li><b>Keyboard: </b>Logitech K380</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Power user)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
