@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=bhatvikrant.bhatvikrant&style=flat-square&color=0088cc)
 
-I'm a full-stack developer currently working at [codedamn](https://github.com/codedamn). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web 🕸️ & Mobile app 📲 Development.
+I'm a full-stack developer currently working at [codedamn](https://github.com/codedamn). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ & Mobile app 📲 Development.
 
 Joined Github 3 years ago.
 
@@ -21,7 +21,7 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with NextJS, Typescript, React, NodeJS ReactNative, Firebase, Graphql, Apollo, Tailwind, Chakra-ui, Javascript, etc.
+- 🛠 &nbsp; At the moment working with NextJS, Typescript, React, NodeJS, ReactNative, Firebase, Graphql, Apollo, Tailwind, Chakra-ui, Javascript, etc.
 - 👀 &nbsp; What I want to learn: WASM, Golang, Rust(should I?)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bhatvikrant).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help.
