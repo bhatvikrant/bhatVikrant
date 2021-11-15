@@ -26,15 +26,15 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bhatvikrant).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
-- 📫 &nbsp; How to reach me: vik.bhat223@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go)
+- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/vikrantbhat1022) or vik.bhat223@gmail.com.
+<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go) -->
 <!-- - 🚀 &nbsp; I’m currently learning Full Stack Development. -->
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love to explore new tech and building cool stuff with it.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 💻 &nbsp; I love to explore new tech and build cool stuff with it.
+- 📰 &nbsp; Reading & writing tech blogs whenever I find a not so common solution to a problem that I personally faced.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
-- ⚡ &nbsp; Fun fact: I love to play guitar
+- ⚡ &nbsp; Fun fact: I love to play guitar and there is a 88% probability that I'll beat you in a badminton match :p
 
 ### Languages and Tools:
 
