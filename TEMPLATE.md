@@ -19,13 +19,13 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 
 <img align="right" width="375" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
-- 🛠 &nbsp; At the moment working with NextJS, Typescript, React, NodeJS, ReactNative, Firebase, Graphql, Apollo, Tailwind, Chakra-ui, Javascript, etc.
+- 🛠 &nbsp; At the moment working with NextJS, Typescript, NodeJS, ReactNative, Firebase, Graphql, Apollo & Tailwind.
 - 👀 &nbsp; What I want to learn: WASM, Golang, Rust(should I?)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bhatvikrant).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
 - 📫 &nbsp; How to reach me: vik.bhat223@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go)
 <!-- - 🚀 &nbsp; I’m currently learning Full Stack Development. -->
@@ -34,7 +34,7 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 - 💻 &nbsp; I love to explore new tech and building cool stuff with it.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
-- ⚡ &nbsp; Fun fact: I love to draw and play guitar
+- ⚡ &nbsp; Fun fact: I love to play guitar
 
 ### Languages and Tools:
 
@@ -145,6 +145,6 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Let's become friends on [Twitter](https://twitter.com/vikrantbhat1022)!
 
 </div>
