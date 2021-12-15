@@ -13,7 +13,7 @@ I'm a full-stack developer currently working at [codedamn](https://github.com/co
 
 Joined Github 3 years ago.
 
-Since then I pushed **7093**+ commits, opened **87**+ issues, submitted **403**+ pull requests, created **1**+ gists and contributed to **43**+ public repositories.
+Since then I pushed **7107**+ commits, opened **87**+ issues, submitted **404**+ pull requests, created **1**+ gists and contributed to **43**+ public repositories.
 
 <!-- [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) -->
 
