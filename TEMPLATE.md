@@ -9,6 +9,8 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=bhatvikrant.bhatvikrant&style=flat-square&color=0088cc)
 
+<img align="right" width="100" alt="" src="assets/rzp.gif" />
+
 Currently working at [Razorpay](https://razorpay.com/). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ & Mobile app 📲 Development.
 
 Joined Github 4 years ago.
