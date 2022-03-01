@@ -9,11 +9,11 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=bhatvikrant.bhatvikrant&style=flat-square&color=0088cc)
 
-I'm a full-stack developer currently working at [codedamn](https://github.com/codedamn). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ & Mobile app 📲 Development.
+Currently working at [Razorpay](https://razorpay.com/). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ & Mobile app 📲 Development.
 
-Joined Github 3 years ago.
+Joined Github 4 years ago.
 
-Since then I pushed **5077**+ commits, opened **26**+ issues, submitted **112**+ pull requests, created **2**+ gists and contributed to **22**+ public repositories.
+Since then I pushed **5080**+ commits, opened **26**+ issues, submitted **112**+ pull requests, created **2**+ gists and contributed to **22**+ public repositories.
 
 <!-- [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) -->
 
