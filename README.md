@@ -1,11 +1,11 @@
-## Hey 👋, I'm [Vikrant Bhat!](https://twitter.com/vikrantbhat1022) and you've reached my Dev space on the WWW :)
+## Hey 👋, I'm [Vikrant Bhat!](https://vikrantbhat.com) and you've reached my Dev space on the WWW :)
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vikrantbhat.com/) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhatvikrant)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vikrantbhat1022)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/bhatvikrant/)
-[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vikrantbhat.hashnode.dev/)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.vikrantbhat.com/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=bhatvikrant.bhatvikrant&style=flat-square&color=0088cc)
 
@@ -15,7 +15,7 @@ Currently working at [Razorpay](https://razorpay.com/). I'm a passionate learner
 
 Joined Github 5+ years ago.
 
-Since then I pushed **9036**+ commits, opened **32**+ issues, submitted **336**+ pull requests, created **4**+ gists and contributed to **25**+ public repositories.
+Since then I pushed **9037**+ commits, opened **32**+ issues, submitted **336**+ pull requests, created **4**+ gists and contributed to **25**+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) 
 
