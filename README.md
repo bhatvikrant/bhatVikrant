@@ -15,7 +15,7 @@ Currently working at [Razorpay](https://razorpay.com/). I'm a passionate learner
 
 Joined Github 5+ years ago.
 
-Since then I pushed **9249**+ commits, opened **73**+ issues, submitted **358**+ pull requests, created **4**+ gists and contributed to **21**+ public repositories.
+Since then I pushed **9249**+ commits, opened **79**+ issues, submitted **358**+ pull requests, created **4**+ gists and contributed to **21**+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) 
 
