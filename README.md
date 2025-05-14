@@ -15,7 +15,7 @@ Currently working at [Razorpay](https://razorpay.com/). I'm a passionate learner
 
 Joined Github 5+ years ago.
 
-Since then I pushed **8899**+ commits, opened **79**+ issues, submitted **171**+ pull requests, created **2**+ gists and contributed to **10**+ public repositories.
+Since then I pushed **8902**+ commits, opened **79**+ issues, submitted **171**+ pull requests, created **2**+ gists and contributed to **10**+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant)
 
@@ -58,14 +58,17 @@ Since then I pushed **8899**+ commits, opened **79**+ issues, submitted **171**+
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhatvikrant&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhatvikrant&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+![bhatvikrant's Stats](https://github-readme-stats.vercel.app/api?username=bhatvikrant&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![bhatvikrant's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatvikrant&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhatvikrant&hide_border=true" />
+![bhatvikrant's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhatvikrant&theme=dark&hide_border=true)
+
 </details>
 
 <details>
