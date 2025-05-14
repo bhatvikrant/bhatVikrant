@@ -58,14 +58,17 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhatvikrant&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhatvikrant&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+![bhatvikrant's Stats](https://github-readme-stats.vercel.app/api?username=bhatvikrant&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![bhatvikrant's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatvikrant&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhatvikrant&hide_border=true" />
+![bhatvikrant's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhatvikrant&theme=dark&hide_border=true)
+
 </details>
 
 <details>
