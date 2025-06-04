@@ -7,6 +7,8 @@
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/bhatvikrant/)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.vikrantbhat.com/)
 
+[Let's be friends - ✍🏻 Sign my guestbook?](https://vikrantbhat.com/guestbook)
+
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=bhatvikrant&color=blue)
 
 <img align="right" width="100" alt="" src="assets/rzp.gif" />
@@ -15,7 +17,7 @@ Currently working at [Razorpay](https://razorpay.com/). I'm a passionate learner
 
 Joined Github 5+ years ago.
 
-Since then I pushed **8923**+ commits, opened **79**+ issues, submitted **171**+ pull requests, created **2**+ gists and contributed to **9**+ public repositories.
+Since then I pushed **8925**+ commits, opened **79**+ issues, submitted **171**+ pull requests, created **2**+ gists and contributed to **9**+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant)
 
