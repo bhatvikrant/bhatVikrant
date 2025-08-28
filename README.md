@@ -17,11 +17,13 @@ I currently work at [Atlassian](https://atlassian.com/), I used to previously wo
 
 Joined Github 6+ years ago.
 
-Since then I pushed **9329**+ commits, opened **78**+ issues, submitted **172**+ pull requests, created **2**+ gists and contributed to **11**+ public repositories.
+Since then I pushed **9331**+ commits, opened **78**+ issues, submitted **172**+ pull requests, created **2**+ gists and contributed to **11**+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant)
 
-<img align="right" width="375" alt="" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHoyOHl6ajFkeDk0eXdrcWN5c2Jqa25laTJxZjhsaDkyN3BqaDR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sl3tiY78IKRTAFJouc/giphy.gif" />
+<a href="https://vikrantbhat.com/about" target="_blank">
+	<img align="right" width="375" alt="" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHoyOHl6ajFkeDk0eXdrcWN5c2Jqa25laTJxZjhsaDkyN3BqaDR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sl3tiY78IKRTAFJouc/giphy.gif" />
+</a>
 
 ### Talking about Personal Stuff:
 
