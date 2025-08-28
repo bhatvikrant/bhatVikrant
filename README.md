@@ -13,11 +13,11 @@
 
 <img align="right" width="100" alt="" src="assets/atlassian.png" />
 
-I currently work at [Atlassian](https://atlassian.com/). I love to build products that are beautiful, intuitive and delightful to use.
+I currently work at [Atlassian](https://atlassian.com/), I used to previously work for [Razorpay](https://razorpay.com/). I love to build products that are beautiful, intuitive and delightful to use.
 
 Joined Github 6+ years ago.
 
-Since then I pushed **9327**+ commits, opened **78**+ issues, submitted **172**+ pull requests, created **2**+ gists and contributed to **11**+ public repositories.
+Since then I pushed **9329**+ commits, opened **78**+ issues, submitted **172**+ pull requests, created **2**+ gists and contributed to **11**+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant)
 
