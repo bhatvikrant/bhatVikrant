@@ -13,7 +13,7 @@
 
 <img align="right" width="100" alt="" src="assets/atlassian.png" />
 
-I currently work at [Atlassian](https://atlassian.com/). I love to build products that are beautiful, intuitive and delightful to use.
+I currently work at [Atlassian](https://atlassian.com/), I used to previously work for [Razorpay](https://razorpay.com/). I love to build products that are beautiful, intuitive and delightful to use.
 
 Joined Github 6+ years ago.
 
