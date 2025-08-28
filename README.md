@@ -7,7 +7,7 @@
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/bhatvikrant/)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.vikrantbhat.com/)
 
-[Let's be friends - ✍🏻 Sign my guestbook?](https://vikrantbhat.com/guestbook)
+[✍🏻 Sign my guestbook here](https://vikrantbhat.com/guestbook)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=bhatvikrant&color=blue)
 
@@ -17,7 +17,7 @@ I currently work at [Atlassian](https://atlassian.com/), I used to previously wo
 
 Joined Github 6+ years ago.
 
-Since then I pushed **9331**+ commits, opened **78**+ issues, submitted **172**+ pull requests, created **2**+ gists and contributed to **11**+ public repositories.
+Since then I pushed **9333**+ commits, opened **78**+ issues, submitted **172**+ pull requests, created **2**+ gists and contributed to **11**+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant)
 
