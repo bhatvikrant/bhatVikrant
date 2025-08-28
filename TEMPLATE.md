@@ -11,35 +11,34 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=bhatvikrant&color=blue)
 
-<img align="right" width="100" alt="" src="assets/rzp.gif" />
+<img align="right" width="100" alt="" src="assets/atlassian.png" />
 
-Currently working at [Razorpay](https://razorpay.com/). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ & Mobile app 📲 Development.
+I currently work at [Atlassian](https://atlassian.com/). I love to build products that are beautiful, intuitive and delightful to use.
 
-Joined Github 5+ years ago.
+Joined Github 6+ years ago.
 
 Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant)
 
-<img align="right" width="375" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
+<img align="right" width="375" alt="" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHoyOHl6ajFkeDk0eXdrcWN5c2Jqa25laTJxZjhsaDkyN3BqaDR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sl3tiY78IKRTAFJouc/giphy.gif" />
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; At the moment working with NextJS, Typescript, NodeJS, ReactNative, Firebase, Graphql, Apollo & Tailwind.
-- 👀 &nbsp; What I want to learn: WASM, Golang, Rust(should I?)
+- 🛠 &nbsp; I work with NextJS, React, Typescript, NodeJS, ReactNative, Apollo, Motion & TailwindCSS.
+- 👀 &nbsp; What I want to learn: Three.js & Blender.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bhatvikrant).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
-- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/vikrantbhat1022) or vik.bhat223@gmail.com.
+- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/vikrantbhat1022).
   <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go) -->
   <!-- - 🚀 &nbsp; I’m currently learning Full Stack Development. -->
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love to explore new tech and build cool stuff with it.
-- 📰 &nbsp; Reading & writing tech blogs whenever I find a not so common solution to a problem that I personally faced.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
-- ⚡ &nbsp; Fun fact: I love to play guitar and there is a 88% probability that I'll beat you in a badminton match :p
+- 💻 &nbsp; I am very enterprising and one day I'd like to build a business that reflects me and my ideas.
+- 📰 &nbsp; I like to read books, take notes of the words that leave a mark on me.
+- 🍕 &nbsp; I love Pizza & Travel.
 
 ### Languages and Tools:
 
@@ -137,16 +136,7 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> MacOS Big Sur</li>
-	    <li><b>Laptop: </b> MacBook Pro (13-inch, M1, 2020)</li>
-            <li><b>Mouse: </b>Logitech MX master 3</li>
-	    <li><b>Keyboard: </b>Logitech K380</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Power user)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Daily.dev, Dev.to, Medium, Linkedin and Twitter.</li>
-	</ul>	
+	<a href="https://vikrantbhat.com/uses">Check out the Software and gadgets I use to get the job done.</a>
 </details>
 
 #
