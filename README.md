@@ -17,7 +17,7 @@ I currently work at [Atlassian](https://atlassian.com/), I used to previously wo
 
 Joined Github 6+ years ago.
 
-Since then I pushed **9371**+ commits, opened **78**+ issues, submitted **170**+ pull requests, created **2**+ gists and contributed to **9**+ public repositories.
+Since then I pushed **9372**+ commits, opened **78**+ issues, submitted **170**+ pull requests, created **2**+ gists and contributed to **9**+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant)
 
